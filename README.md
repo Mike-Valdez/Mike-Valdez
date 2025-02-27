@@ -26,3 +26,5 @@ focusing on full-stack development and cloud computing.
 ### Current learning goals
 - Creating personalized error screens
 - Building websites using SSI
+
+![Build Status] (https://img.shields.io/badge/Just-Starting-pink?style=flat&labelColor=black%20&color=pink)
