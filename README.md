@@ -23,6 +23,6 @@ focusing on full-stack development and cloud computing.
 - Email: Michael.v2304@gmail.com
 - Portfolio: [Coming Soon]
 
-## Current learning goals
+### Current learning goals
 - Creating personalized error screens
 - Building websites using SSI
