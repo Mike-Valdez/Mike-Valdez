@@ -27,4 +27,5 @@ focusing on full-stack development and cloud computing.
 - Creating personalized error screens
 - Building websites using SSI
 
-![Build Status] (https://img.shields.io/badge/Just-Starting-pink?style=flat&labelColor=black%20&color=pink)
+![Build Status](https://img.shields.io/badge/Just-Starting-pink?style=flat&labelColor=black&color=pink)
+
